@@ -157,4 +157,4 @@ class MyRunner {
 
 };
 const randomHorse = new MyRunner();
-console.log(randomHorse.generate_message());
+console.log(randomHorse);
